@@ -1,5 +1,18 @@
 # @solana/rpc-subscriptions-api
 
+## 2.0.0-preview.5
+
+### Patch Changes
+
+-   Updated dependencies []:
+    -   @solana/addresses@2.0.0-preview.5
+    -   @solana/keys@2.0.0-preview.5
+    -   @solana/rpc-subscriptions-spec@2.0.0-preview.5
+    -   @solana/rpc-types@2.0.0-preview.5
+    -   @solana/transaction-messages@2.0.0-preview.5
+    -   @solana/transactions@2.0.0-preview.5
+    -   @solana/rpc-transformers@2.0.0-preview.5
+
 ## 2.0.0-preview.4
 
 ### Patch Changes
